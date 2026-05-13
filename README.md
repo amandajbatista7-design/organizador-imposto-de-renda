@@ -117,7 +117,7 @@ A planilha utiliza **botões interativos** que permitem alternar entre as abas c
 
 **Amanda Batista**
 
-Junior Data Analyst focused on Python, SQL, Excel, and Power BI.
+Data Analyst focused on Python, SQL, Excel, and Power BI.
 
 LinkedIn: https://www.linkedin.com/in/amandabat
 
